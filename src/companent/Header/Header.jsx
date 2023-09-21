@@ -18,7 +18,7 @@ const Header = () => {
           <div className=" w-11/12 mx-auto navbar flex justify-between">
             <div className="flex-none lg:hidden">
               <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost">
-                <MdMenuBook className="text-5xl text-[#062425]"/>
+                <MdMenuBook className="text-5xl text-white"/>
              </label>
             </div>
             <div className="end px-2 mx-2">
